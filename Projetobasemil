@@ -1,1 +1,126 @@
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Base Mil</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0D0D0D;
+            color: #FFFFFF;
+        }
+        header {
+            background: linear-gradient(90deg, #000000, #1a1a1a);
+            padding: 60px 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #C6A052;
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #C6A052;
+            margin-top: 40px;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #C6A052;
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 6px;
+            margin-top: 20px;
+        }
+        .card {
+            background-color: #1a1a1a;
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        footer {
+            background-color: #000;
+            text-align: center;
+            padding: 30px;
+            font-size: 14px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Projeto Base Mil</h1>
+    <p>Construa sua Base. Escale sua Liberdade.</p>
+    <a href="#" class="button">Quero Começar Agora</a>
+</header>
+
+<section>
+    <h2>O que é o Projeto Base Mil?</h2>
+    <p>O Projeto Base Mil é um método estratégico para você sair do zero e conquistar seus primeiros R$1.000 online de forma prática e estruturada. Sem enrolação, apenas execução.</p>
+</section>
+
+<section>
+    <h2>Nossos Produtos</h2>
+
+    <div class="card">
+        <h3>📘 Ebook – Do Zero ao Primeiro Mil</h3>
+        <p>Guia prático para iniciar no digital mesmo sem experiência.</p>
+        <p><strong>Preço sugerido:</strong> R$27–R$47</p>
+        <a href="#" class="button">Comprar Ebook</a>
+    </div>
+
+    <div class="card">
+        <h3>🚀 Método 3K</h3>
+        <p>Plano estruturado para alcançar R$3.000 online com estratégia validada.</p>
+        <p><strong>Preço sugerido:</strong> R$97–R$197</p>
+        <a href="#" class="button">Acessar Método 3K</a>
+    </div>
+
+    <div class="card">
+        <h3>🔥 Mentoria Base Mil</h3>
+        <p>Aulas gravadas + grupo fechado + checklist diário.</p>
+        <p><strong>Preço sugerido:</strong> R$497–R$997</p>
+        <a href="#" class="button">Entrar na Mentoria</a>
+    </div>
+</section>
+
+<section>
+    <h2>Por que funciona?</h2>
+    <ul>
+        <li>Estratégia simples e direta</li>
+        <li>Foco em execução diária</li>
+        <li>Escada de crescimento estruturada</li>
+        <li>Primeiro passo alcançável no primeiro mês</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Depoimentos</h2>
+    <p>Aqui você pode colocar prints ou feedbacks de alunos que já aplicaram o método e tiveram resultados.</p>
+</section>
+
+<section>
+    <h2>Comece Hoje</h2>
+    <p>Não espere o momento perfeito. Construa sua base agora e evolua passo a passo.</p>
+    <a href="#" class="button">Quero Começar Agora</a>
+</section>
+
+<footer>
+    © 2026 Projeto Base Mil - Todos os direitos reservados
+</footer>
+
+</body>
+</html>
